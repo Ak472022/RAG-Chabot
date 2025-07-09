@@ -1,0 +1,13 @@
+{
+  "queries": 1,
+  "success": 0,
+  "errors": [
+    "'InferenceClient' object has no attribute 'post'"
+  ],
+  "response_times": [
+    31.230467557907104
+  ],
+  "retrieval_scores": [
+    0.2407899499057061
+  ]
+}

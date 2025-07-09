@@ -1,0 +1,50 @@
+# Core dependencies for LangChain and RAG
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-chroma
+huggingface_hub
+langsmith
+tenacity
+
+# Transformers and embeddings
+transformers
+sentence-transformers
+
+# NLP and language detection
+fasttext-wheel
+spacy
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl
+
+# PDF processing
+PyPDF2
+pdf2image
+pytesseract
+opencv-python
+Pillow
+
+# Optimization
+optuna
+hdbscan
+
+# Web interface and deployment
+flask
+waitress
+flask-session
+requests
+
+# Evaluation and metrics
+pandas
+scikit-learn
+numpy
+nltk
+rouge-score
+
+# Additional utilities
+docx2txt
+aiofiles
+asyncio
+statistics
+python-dotenv
